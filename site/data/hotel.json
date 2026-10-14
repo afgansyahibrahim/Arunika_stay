@@ -1,0 +1,2060 @@
+{
+  "settings": {
+    "name": "Arunika Stay",
+    "is_demo": true,
+    "tagline": {
+      "id": "Ruang untuk merasa di rumah.",
+      "en": "A little closer to home."
+    },
+    "hero_label": {
+      "id": "RUANG TENANG. CERITA BARU.",
+      "en": "SLOW MOMENTS. NEW STORIES."
+    },
+    "hero_title": {
+      "id": "Singgah sejenak.\nRasakan nyamannya.",
+      "en": "Stay a little.\nFeel at home."
+    },
+    "hero_subtitle": {
+      "id": "Tempat untuk beristirahat, menikmati momen kecil, dan menciptakan kenangan bersama orang tersayang.",
+      "en": "A place to slow down, savour the little moments, and make memories with the people you love."
+    },
+    "hero_image": "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=2000&q=85",
+    "hero_alt": {
+      "id": "Foto stok ruang duduk untuk pratinjau desain",
+      "en": "Stock lounge photograph for design preview"
+    },
+    "about_title": {
+      "id": "Lebih dari tempat menginap.\nRuang untuk pulang.",
+      "en": "More than a place to stay.\nA place to belong."
+    },
+    "about_description": {
+      "id": "Setiap perjalanan layak memiliki persinggahan yang nyaman. Arunika Stay menghadirkan suasana hangat, ruang yang penuh perhatian, dan kesempatan untuk menikmati waktu bersama.\n\nDari pagi yang santai hingga percakapan panjang di penghujung hari, kami ingin setiap momen terasa seperti di rumah.",
+      "en": "Every journey deserves a comforting pause. Arunika Stay brings together warm spaces, thoughtful details, and room to enjoy being together.\n\nFrom unhurried mornings to conversations that last into the evening, we want every moment to feel a little like home."
+    },
+    "about_image": "https://images.unsplash.com/photo-1590490360182-c33d57733427?auto=format&fit=crop&w=1200&q=85",
+    "about_alt": {
+      "id": "Foto stok kamar yang hangat",
+      "en": "Stock photograph of a warm bedroom"
+    },
+    "whatsapp": "",
+    "phone": "",
+    "email": "",
+    "address": {
+      "id": "Alamat hotel akan ditambahkan.",
+      "en": "Hotel address coming soon."
+    },
+    "map_url": "",
+    "instagram": "",
+    "logo": "",
+    "checkin": "14:00",
+    "checkout": "12:00",
+    "seo_title": {
+      "id": "Arunika Stay — Singgah Sejenak, Rasakan Nyamannya",
+      "en": "Arunika Stay — Stay a Little, Feel at Home"
+    },
+    "seo_description": {
+      "id": "Temukan ruang menginap yang hangat untuk keluarga. Lihat kamar, fasilitas, dan hubungi hotel melalui WhatsApp.",
+      "en": "Discover a welcoming stay for the whole family. Explore rooms, amenities, and contact the hotel on WhatsApp."
+    },
+    "sections": [
+      {
+        "key": "about",
+        "enabled": true
+      },
+      {
+        "key": "rooms",
+        "enabled": true
+      },
+      {
+        "key": "facilities",
+        "enabled": true
+      },
+      {
+        "key": "gallery",
+        "enabled": true
+      },
+      {
+        "key": "testimonials",
+        "enabled": true
+      },
+      {
+        "key": "faq",
+        "enabled": true
+      },
+      {
+        "key": "contact",
+        "enabled": true
+      }
+    ]
+  },
+  "items": [
+    {
+      "type": "room",
+      "data": {
+        "title": {
+          "id": "Deluxe Room",
+          "en": "Deluxe Room"
+        },
+        "description": {
+          "id": "Dirancang untuk dua orang yang ingin beristirahat dengan tenang. Cahaya yang lembut, warna alami, dan ruang yang tertata memberi suasana nyaman setelah hari yang panjang.\n\nNikmati pagi tanpa terburu-buru, bekerja sebentar di sudut kamar, atau sekadar berbincang sambil menikmati secangkir minuman. Deluxe Room adalah ruang sederhana untuk momen yang berkesan.",
+          "en": "Designed for two people looking for a peaceful rest. Soft light, natural colours, and a thoughtful layout create a welcoming space after a long day.\n\nEnjoy an unhurried morning, catch up on work at the room desk, or share a conversation over a drink. Deluxe Room makes room for simple, memorable moments."
+        },
+        "image": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?auto=format&fit=crop&w=1200&q=85",
+        "alt": {
+          "id": "Foto stok untuk Deluxe Room",
+          "en": "Stock photograph for Deluxe Room"
+        },
+        "capacity": 2,
+        "size": 28,
+        "price": 650000,
+        "features": {
+          "id": "Tempat tidur nyaman\nAC individual\nWi-Fi\nKamar mandi pribadi\nArea duduk\nMeja kerja\nPerlengkapan mandi\nAir minum",
+          "en": "Comfortable bed\nIndividual air conditioning\nWi-Fi\nPrivate bathroom\nSitting area\nWork desk\nToiletries\nDrinking water"
+        },
+        "original_locale": "id"
+      },
+      "id": 1,
+      "status": "published",
+      "is_demo": true,
+      "sort_order": 1
+    },
+    {
+      "type": "room",
+      "data": {
+        "title": {
+          "id": "Family Suite",
+          "en": "Family Suite"
+        },
+        "description": {
+          "id": "Ruang lebih luas untuk cerita yang dibagi bersama keluarga. Area istirahat dan sudut duduk membuat setiap anggota keluarga punya tempat untuk bersantai tanpa kehilangan kebersamaan.\n\nDengan kapasitas empat tamu, Family Suite cocok untuk akhir pekan panjang atau liburan yang ingin dinikmati perlahan. Mulai pagi bersama, lalu kembali ke ruang yang hangat setelah menjelajahi sekitar.",
+          "en": "More space for stories shared with the family. Resting areas and a sitting corner give everyone a place to unwind while staying together.\n\nWith room for four guests, Family Suite suits a long weekend or an unhurried family break. Start the morning together and return to a warm space after exploring the surroundings."
+        },
+        "image": "https://images.unsplash.com/photo-1590490360182-c33d57733427?auto=format&fit=crop&w=1200&q=85",
+        "alt": {
+          "id": "Foto stok untuk Family Suite",
+          "en": "Stock photograph for Family Suite"
+        },
+        "capacity": 4,
+        "size": 42,
+        "price": 950000,
+        "features": {
+          "id": "Tempat tidur nyaman\nAC individual\nWi-Fi\nKamar mandi pribadi\nArea duduk\nMeja kerja\nPerlengkapan mandi\nAir minum",
+          "en": "Comfortable bed\nIndividual air conditioning\nWi-Fi\nPrivate bathroom\nSitting area\nWork desk\nToiletries\nDrinking water"
+        },
+        "original_locale": "id"
+      },
+      "id": 2,
+      "status": "published",
+      "is_demo": true,
+      "sort_order": 2
+    },
+    {
+      "type": "room",
+      "data": {
+        "title": {
+          "id": "Garden Room",
+          "en": "Garden Room"
+        },
+        "description": {
+          "id": "Bangun dengan suasana yang dekat dengan alam. Garden Room menghadirkan warna tenang dan sentuhan alami untuk tamu yang menyukai perjalanan yang lebih santai.\n\nBaca buku, nikmati percakapan, atau sisihkan waktu untuk dirimu sendiri. Ruang untuk dua tamu ini menempatkan kenyamanan dan ketenangan sebagai bagian dari pengalaman menginap.",
+          "en": "Wake up to a feeling of being closer to nature. Garden Room brings together calming colours and natural touches for guests who enjoy a slower pace.\n\nRead a book, enjoy a conversation, or set aside a little time for yourself. This room for two makes comfort and calm part of the stay."
+        },
+        "image": "https://images.unsplash.com/photo-1566665797739-1674de7a421a?auto=format&fit=crop&w=1200&q=85",
+        "alt": {
+          "id": "Foto stok untuk Garden Room",
+          "en": "Stock photograph for Garden Room"
+        },
+        "capacity": 2,
+        "size": 32,
+        "price": 750000,
+        "features": {
+          "id": "Tempat tidur nyaman\nAC individual\nWi-Fi\nKamar mandi pribadi\nArea duduk\nMeja kerja\nPerlengkapan mandi\nAir minum",
+          "en": "Comfortable bed\nIndividual air conditioning\nWi-Fi\nPrivate bathroom\nSitting area\nWork desk\nToiletries\nDrinking water"
+        },
+        "original_locale": "id"
+      },
+      "id": 3,
+      "status": "published",
+      "is_demo": true,
+      "sort_order": 3
+    },
+    {
+      "type": "facility",
+      "data": {
+        "title": {
+          "id": "Kolam renang",
+          "en": "Swimming pool"
+        },
+        "description": {
+          "id": "Ambil jeda di tepi kolam, nikmati udara terbuka, atau berenang santai sebelum melanjutkan harimu. Area ini menjadi tempat untuk beristirahat bersama setelah menjelajahi kota.",
+          "en": "Pause by the pool, enjoy the fresh air, or take a leisurely swim before continuing your day. A space to unwind together after exploring the city."
+        },
+        "image": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?auto=format&fit=crop&w=1200&q=85",
+        "alt": {
+          "id": "Foto stok untuk contoh kolam renang",
+          "en": "Stock photograph illustrating swimming pool"
+        },
+        "icon": "waves",
+        "original_locale": "id"
+      },
+      "id": 4,
+      "status": "published",
+      "is_demo": true,
+      "sort_order": 4
+    },
+    {
+      "type": "facility",
+      "data": {
+        "title": {
+          "id": "Restoran & area bersantap",
+          "en": "Restaurant & dining"
+        },
+        "description": {
+          "id": "Dari sarapan yang santai hingga hidangan untuk dinikmati bersama, meja makan menjadi awal cerita baru. Temukan suasana hangat untuk makan berdua maupun bersama keluarga.",
+          "en": "From an unhurried breakfast to a meal shared together, the table is where new stories begin. Discover a welcoming setting for dining as a couple or with family."
+        },
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?auto=format&fit=crop&w=1200&q=85",
+        "alt": {
+          "id": "Foto stok untuk contoh restoran & area bersantap",
+          "en": "Stock photograph illustrating restaurant & dining"
+        },
+        "icon": "utensils",
+        "original_locale": "id"
+      },
+      "id": 5,
+      "status": "published",
+      "is_demo": true,
+      "sort_order": 5
+    },
+    {
+      "type": "facility",
+      "data": {
+        "title": {
+          "id": "Lounge bersama",
+          "en": "Shared lounge"
+        },
+        "description": {
+          "id": "Duduk sejenak, bertukar cerita, dan menikmati ruang yang terasa akrab. Lounge menyediakan sudut nyaman untuk berkumpul atau menikmati waktu sendiri di sela perjalanan.",
+          "en": "Take a seat, share stories, and enjoy a space that feels familiar. The lounge offers comfortable corners to gather or enjoy a quiet moment during your journey."
+        },
+        "image": "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=2000&q=85",
+        "alt": {
+          "id": "Foto stok untuk contoh lounge bersama",
+          "en": "Stock photograph illustrating shared lounge"
+        },
+        "icon": "leaf",
+        "original_locale": "id"
+      },
+      "id": 6,
+      "status": "published",
+      "is_demo": true,
+      "sort_order": 6
+    },
+    {
+      "type": "gallery",
+      "data": {
+        "title": {
+          "id": "Suasana hotel",
+          "en": "Hotel atmosphere"
+        },
+        "description": {
+          "id": "",
+          "en": ""
+        },
+        "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=1200&q=85",
+        "alt": {
+          "id": "Foto stok: Suasana hotel",
+          "en": "Stock photograph: Hotel atmosphere"
+        },
+        "category": "hotel",
+        "original_locale": "id"
+      },
+      "id": 7,
+      "status": "published",
+      "is_demo": true,
+      "sort_order": 7
+    },
+    {
+      "type": "gallery",
+      "data": {
+        "title": {
+          "id": "Kamar yang nyaman",
+          "en": "Comfortable rooms"
+        },
+        "description": {
+          "id": "",
+          "en": ""
+        },
+        "image": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?auto=format&fit=crop&w=1200&q=85",
+        "alt": {
+          "id": "Foto stok: Kamar yang nyaman",
+          "en": "Stock photograph: Comfortable rooms"
+        },
+        "category": "kamar",
+        "original_locale": "id"
+      },
+      "id": 8,
+      "status": "published",
+      "is_demo": true,
+      "sort_order": 8
+    },
+    {
+      "type": "gallery",
+      "data": {
+        "title": {
+          "id": "Momen santai",
+          "en": "Slow moments"
+        },
+        "description": {
+          "id": "",
+          "en": ""
+        },
+        "image": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?auto=format&fit=crop&w=1200&q=85",
+        "alt": {
+          "id": "Foto stok: Momen santai",
+          "en": "Stock photograph: Slow moments"
+        },
+        "category": "fasilitas",
+        "original_locale": "id"
+      },
+      "id": 9,
+      "status": "published",
+      "is_demo": true,
+      "sort_order": 9
+    },
+    {
+      "type": "gallery",
+      "data": {
+        "title": {
+          "id": "Area bersantap",
+          "en": "Dining area"
+        },
+        "description": {
+          "id": "",
+          "en": ""
+        },
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?auto=format&fit=crop&w=1200&q=85",
+        "alt": {
+          "id": "Foto stok: Area bersantap",
+          "en": "Stock photograph: Dining area"
+        },
+        "category": "fasilitas",
+        "original_locale": "id"
+      },
+      "id": 10,
+      "status": "published",
+      "is_demo": true,
+      "sort_order": 10
+    },
+    {
+      "type": "testimonial",
+      "data": {
+        "title": {
+          "id": "Tamu Contoh A",
+          "en": "Tamu Contoh A"
+        },
+        "description": {
+          "id": "Contoh ulasan: suasananya hangat dan ruangnya nyaman untuk menikmati waktu bersama keluarga.",
+          "en": "Sample review: a warm atmosphere and comfortable spaces for enjoying time with the family."
+        },
+        "rating": 5,
+        "source": "Contoh desain / Design sample",
+        "source_url": "",
+        "date": "2026-09-01",
+        "avatar": "",
+        "featured": true,
+        "translated": true,
+        "consent": false,
+        "original_locale": "id"
+      },
+      "id": 11,
+      "status": "published",
+      "is_demo": true,
+      "sort_order": 11
+    },
+    {
+      "type": "testimonial",
+      "data": {
+        "title": {
+          "id": "Tamu Contoh B",
+          "en": "Tamu Contoh B"
+        },
+        "description": {
+          "id": "Contoh ulasan: tempat yang menyenangkan untuk beristirahat setelah perjalanan panjang.",
+          "en": "Sample review: a lovely place to rest after a long journey."
+        },
+        "rating": 5,
+        "source": "Contoh desain / Design sample",
+        "source_url": "",
+        "date": "2026-09-01",
+        "avatar": "",
+        "featured": true,
+        "translated": true,
+        "consent": false,
+        "original_locale": "id"
+      },
+      "id": 12,
+      "status": "published",
+      "is_demo": true,
+      "sort_order": 12
+    },
+    {
+      "type": "faq",
+      "data": {
+        "title": {
+          "id": "Jam berapa check-in dan check-out?",
+          "en": "What are the check-in and check-out times?"
+        },
+        "description": {
+          "id": "Contoh kebijakan: check-in mulai pukul 14.00 dan check-out sebelum pukul 12.00. Kebijakan asli akan dikonfirmasi hotel.",
+          "en": "Sample policy: check-in starts at 2 PM and check-out is before noon. Actual policy will be confirmed by the hotel."
+        },
+        "original_locale": "id"
+      },
+      "id": 13,
+      "status": "published",
+      "is_demo": true,
+      "sort_order": 13
+    },
+    {
+      "type": "faq",
+      "data": {
+        "title": {
+          "id": "Bagaimana cara memesan kamar?",
+          "en": "How do I reserve a room?"
+        },
+        "description": {
+          "id": "Hubungi hotel melalui WhatsApp untuk menanyakan tanggal, pilihan kamar, dan harga yang tersedia.",
+          "en": "Contact the hotel on WhatsApp to ask about dates, room choices, and available rates."
+        },
+        "original_locale": "id"
+      },
+      "id": 14,
+      "status": "published",
+      "is_demo": true,
+      "sort_order": 14
+    },
+    {
+      "type": "faq",
+      "data": {
+        "title": {
+          "id": "Apakah tersedia kamar untuk keluarga?",
+          "en": "Are family rooms available?"
+        },
+        "description": {
+          "id": "Lihat kapasitas setiap pilihan kamar dan hubungi hotel untuk menentukan kamar sesuai kebutuhan keluarga.",
+          "en": "Check the capacity of each room and contact the hotel to find a room that suits your family."
+        },
+        "original_locale": "id"
+      },
+      "id": 15,
+      "status": "published",
+      "is_demo": true,
+      "sort_order": 15
+    },
+    {
+      "type": "faq",
+      "data": {
+        "title": {
+          "id": "Apakah sarapan sudah termasuk?",
+          "en": "Is breakfast included?"
+        },
+        "description": {
+          "id": "Ketentuan sarapan mengikuti paket yang dipilih. Konfirmasikan kepada hotel sebelum melakukan pemesanan.",
+          "en": "Breakfast depends on your chosen package. Please confirm with the hotel before reserving."
+        },
+        "original_locale": "id"
+      },
+      "id": 16,
+      "status": "published",
+      "is_demo": true,
+      "sort_order": 16
+    },
+    {
+      "id": 17,
+      "type": "facility",
+      "status": "published",
+      "is_demo": true,
+      "sort_order": 17,
+      "data": {
+        "title": {
+          "id": "Sudut kerja & Wi-Fi",
+          "en": "Workspace & Wi-Fi"
+        },
+        "description": {
+          "id": "Ruang dengan meja dan tempat duduk untuk menyelesaikan pekerjaan ringan. Tetap terhubung saat diperlukan, lalu kembali menikmati waktu istirahat dengan pikiran yang lebih tenang.",
+          "en": "A space with a desk and seating to take care of light work. Stay connected when you need to, then return to your break with a clearer mind."
+        },
+        "image": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=1200&q=85",
+        "alt": {
+          "id": "Foto stok untuk contoh sudut kerja & wi-fi",
+          "en": "Stock photograph illustrating workspace & wi-fi"
+        },
+        "icon": "wifi"
+      }
+    },
+    {
+      "id": 18,
+      "type": "facility",
+      "status": "published",
+      "is_demo": true,
+      "sort_order": 18,
+      "data": {
+        "title": {
+          "id": "Coffee corner",
+          "en": "Coffee corner"
+        },
+        "description": {
+          "id": "Secangkir minuman dan percakapan yang tidak terburu-buru. Temukan sudut favorit untuk memulai pagi atau mengambil jeda kecil di sore hari.",
+          "en": "A cup of something warm and a conversation without a rush. Find a favourite spot to start your morning or take a little afternoon break."
+        },
+        "image": "https://images.unsplash.com/photo-1442512595331-e89e73853f31?auto=format&fit=crop&w=1200&q=85",
+        "alt": {
+          "id": "Foto stok untuk contoh coffee corner",
+          "en": "Stock photograph illustrating coffee corner"
+        },
+        "icon": "coffee"
+      }
+    },
+    {
+      "id": 19,
+      "type": "facility",
+      "status": "published",
+      "is_demo": true,
+      "sort_order": 19,
+      "data": {
+        "title": {
+          "id": "Sudut baca",
+          "en": "Reading corner"
+        },
+        "description": {
+          "id": "Bawa buku favoritmu dan nikmati waktu tanpa agenda. Sudut baca melengkapi persinggahan dengan suasana tenang untuk membuka halaman baru dan memperlambat langkah.",
+          "en": "Bring your favourite book and enjoy some time without an agenda. A quiet reading corner gives your stay room for a new chapter and a slower pace."
+        },
+        "image": "https://images.unsplash.com/photo-1494438639946-1ebd1d20bf85?auto=format&fit=crop&w=1200&q=85",
+        "alt": {
+          "id": "Foto stok untuk contoh sudut baca",
+          "en": "Stock photograph illustrating reading corner"
+        },
+        "icon": "leaf"
+      }
+    },
+    {
+      "id": 20,
+      "type": "gallery",
+      "status": "published",
+      "is_demo": true,
+      "sort_order": 20,
+      "data": {
+        "title": {
+          "id": "Detail kamar",
+          "en": "Room details"
+        },
+        "description": {
+          "id": "",
+          "en": ""
+        },
+        "image": "https://images.unsplash.com/photo-1590490360182-c33d57733427?auto=format&fit=crop&w=1200&q=85",
+        "alt": {
+          "id": "Foto stok: Detail kamar",
+          "en": "Stock photograph: Room details"
+        },
+        "category": "kamar"
+      }
+    },
+    {
+      "id": 21,
+      "type": "gallery",
+      "status": "published",
+      "is_demo": true,
+      "sort_order": 21,
+      "data": {
+        "title": {
+          "id": "Sudut ruang keluarga",
+          "en": "A shared sitting corner"
+        },
+        "description": {
+          "id": "",
+          "en": ""
+        },
+        "image": "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=2000&q=85",
+        "alt": {
+          "id": "Foto stok: Sudut ruang keluarga",
+          "en": "Stock photograph: A shared sitting corner"
+        },
+        "category": "hotel"
+      }
+    },
+    {
+      "id": 22,
+      "type": "gallery",
+      "status": "published",
+      "is_demo": true,
+      "sort_order": 22,
+      "data": {
+        "title": {
+          "id": "Waktu di tepi kolam",
+          "en": "Poolside moments"
+        },
+        "description": {
+          "id": "",
+          "en": ""
+        },
+        "image": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?auto=format&fit=crop&w=1200&q=85",
+        "alt": {
+          "id": "Foto stok: Waktu di tepi kolam",
+          "en": "Stock photograph: Poolside moments"
+        },
+        "category": "fasilitas"
+      }
+    },
+    {
+      "id": 23,
+      "type": "gallery",
+      "status": "published",
+      "is_demo": true,
+      "sort_order": 23,
+      "data": {
+        "title": {
+          "id": "Coffee corner",
+          "en": "Coffee corner"
+        },
+        "description": {
+          "id": "",
+          "en": ""
+        },
+        "image": "https://images.unsplash.com/photo-1442512595331-e89e73853f31?auto=format&fit=crop&w=1200&q=85",
+        "alt": {
+          "id": "Foto stok untuk contoh coffee corner",
+          "en": "Stock photograph illustrating coffee corner"
+        },
+        "category": "fasilitas"
+      }
+    },
+    {
+      "id": 24,
+      "type": "gallery",
+      "status": "published",
+      "is_demo": true,
+      "sort_order": 24,
+      "data": {
+        "title": {
+          "id": "Nuansa Family Suite",
+          "en": "The Family Suite atmosphere"
+        },
+        "description": {
+          "id": "",
+          "en": ""
+        },
+        "image": "https://images.unsplash.com/photo-1590490360182-c33d57733427?auto=format&fit=crop&w=1200&q=85",
+        "alt": {
+          "id": "Foto stok: Nuansa Family Suite",
+          "en": "Stock photograph: The Family Suite atmosphere"
+        },
+        "category": "kamar"
+      }
+    },
+    {
+      "id": 25,
+      "type": "gallery",
+      "status": "published",
+      "is_demo": true,
+      "sort_order": 25,
+      "data": {
+        "title": {
+          "id": "Sudut kerja & Wi-Fi",
+          "en": "Workspace & Wi-Fi"
+        },
+        "description": {
+          "id": "",
+          "en": ""
+        },
+        "image": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=1200&q=85",
+        "alt": {
+          "id": "Foto stok untuk contoh sudut kerja & wi-fi",
+          "en": "Stock photograph illustrating workspace & wi-fi"
+        },
+        "category": "fasilitas"
+      }
+    },
+    {
+      "id": 26,
+      "type": "gallery",
+      "status": "published",
+      "is_demo": true,
+      "sort_order": 26,
+      "data": {
+        "title": {
+          "id": "Sudut baca",
+          "en": "Reading corner"
+        },
+        "description": {
+          "id": "",
+          "en": ""
+        },
+        "image": "https://images.unsplash.com/photo-1494438639946-1ebd1d20bf85?auto=format&fit=crop&w=1200&q=85",
+        "alt": {
+          "id": "Foto stok untuk contoh sudut baca",
+          "en": "Stock photograph illustrating reading corner"
+        },
+        "category": "fasilitas"
+      }
+    },
+    {
+      "id": 27,
+      "type": "gallery",
+      "status": "published",
+      "is_demo": true,
+      "sort_order": 27,
+      "data": {
+        "title": {
+          "id": "Ruang untuk pulang",
+          "en": "A space to return to"
+        },
+        "description": {
+          "id": "",
+          "en": ""
+        },
+        "image": "https://images.unsplash.com/photo-1566665797739-1674de7a421a?auto=format&fit=crop&w=1200&q=85",
+        "alt": {
+          "id": "Foto stok: Ruang untuk pulang",
+          "en": "Stock photograph: A space to return to"
+        },
+        "category": "kamar"
+      }
+    },
+    {
+      "id": 28,
+      "type": "faq",
+      "status": "published",
+      "is_demo": true,
+      "sort_order": 28,
+      "data": {
+        "title": {
+          "id": "Apa perbedaan tipe kamar?",
+          "en": "How do the room types differ?"
+        },
+        "description": {
+          "id": "Deluxe Room untuk dua tamu, Family Suite untuk empat tamu, dan Garden Room untuk dua tamu dengan nuansa lebih alami. Lihat halaman detail untuk luas serta fasilitas setiap kamar.",
+          "en": "Deluxe Room sleeps two, Family Suite sleeps four, and Garden Room offers a natural atmosphere for two. See each room page for its size and facilities."
+        }
+      }
+    },
+    {
+      "id": 29,
+      "type": "faq",
+      "status": "published",
+      "is_demo": true,
+      "sort_order": 29,
+      "data": {
+        "title": {
+          "id": "Bagaimana menanyakan ketersediaan tanggal?",
+          "en": "How can I check availability?"
+        },
+        "description": {
+          "id": "Buka halaman Hubungi Kami, isi rencana menginap, lalu siapkan pesan untuk hotel. Website portofolio ini mendemonstrasikan alur pertanyaan, bukan sistem reservasi.",
+          "en": "Open Get in touch, enter your stay plans, and prepare a message. This portfolio demonstrates an enquiry flow rather than a booking system."
+        }
+      }
+    },
+    {
+      "id": 30,
+      "type": "faq",
+      "status": "published",
+      "is_demo": true,
+      "sort_order": 30,
+      "data": {
+        "title": {
+          "id": "Apakah dapat meminta kamar tertentu?",
+          "en": "Can I request a particular room?"
+        },
+        "description": {
+          "id": "Sebutkan pilihan kamar serta kebutuhan khusus dalam pesan. Ketersediaan dan pemenuhan permintaan harus dikonfirmasi oleh pihak hotel.",
+          "en": "Mention your room preference and any special requirements in your message. Availability and requests must be confirmed by the hotel."
+        }
+      }
+    },
+    {
+      "id": 31,
+      "type": "faq",
+      "status": "published",
+      "is_demo": true,
+      "sort_order": 31,
+      "data": {
+        "title": {
+          "id": "Apakah tersedia Wi-Fi?",
+          "en": "Is Wi-Fi available?"
+        },
+        "description": {
+          "id": "Wi-Fi merupakan fasilitas contoh yang ditampilkan dalam daftar kamar. Untuk hotel nyata, cakupan dan ketentuannya perlu dikonfirmasi sebelum menginap.",
+          "en": "Wi-Fi is included in the sample room amenities. For a real hotel, coverage and terms should be confirmed before your stay."
+        }
+      }
+    },
+    {
+      "id": 32,
+      "type": "faq",
+      "status": "published",
+      "is_demo": true,
+      "sort_order": 32,
+      "data": {
+        "title": {
+          "id": "Boleh meminta check-in lebih awal?",
+          "en": "Can I request early check-in?"
+        },
+        "description": {
+          "id": "Tulis perkiraan waktu tiba saat menghubungi hotel. Early check-in mengikuti kesiapan kamar dan konfirmasi pengelola.",
+          "en": "Include your estimated arrival time when contacting the hotel. Early check-in depends on room readiness and confirmation."
+        }
+      }
+    },
+    {
+      "id": 33,
+      "type": "faq",
+      "status": "published",
+      "is_demo": true,
+      "sort_order": 33,
+      "data": {
+        "title": {
+          "id": "Bagaimana jika rencana menginap berubah?",
+          "en": "What if my plans change?"
+        },
+        "description": {
+          "id": "Hubungi pengelola untuk menanyakan perubahan tanggal. Kebijakan perubahan dan pembatalan mengikuti paket yang disepakati.",
+          "en": "Contact the hotel to discuss a date change. Amendment and cancellation terms depend on the agreed package."
+        }
+      }
+    },
+    {
+      "id": 34,
+      "type": "faq",
+      "status": "published",
+      "is_demo": true,
+      "sort_order": 34,
+      "data": {
+        "title": {
+          "id": "Apakah ulasan di website ini asli?",
+          "en": "Are the reviews on this website real?"
+        },
+        "description": {
+          "id": "Tidak. Identitas hotel, foto stok, rating, dan seluruh ulasan adalah data contoh untuk proyek portofolio. Angka ulasan dihitung dari data demo yang ditampilkan.",
+          "en": "No. The hotel identity, stock photos, ratings, and all reviews are fictional portfolio samples. Review statistics are calculated from the displayed demo data."
+        }
+      }
+    },
+    {
+      "id": 35,
+      "type": "faq",
+      "status": "published",
+      "is_demo": true,
+      "sort_order": 35,
+      "data": {
+        "title": {
+          "id": "Bagaimana mencoba fitur admin?",
+          "en": "How can I try the admin features?"
+        },
+        "description": {
+          "id": "Klik Demo Admin untuk menambah atau mengedit data contoh. Perubahan hanya tersimpan di browser milikmu dan tidak mengubah pengalaman pengunjung lain.",
+          "en": "Open Demo Admin to add or edit sample content. Changes stay in your own browser and do not affect other visitors."
+        }
+      }
+    },
+    {
+      "id": 36,
+      "type": "testimonial",
+      "status": "published",
+      "is_demo": true,
+      "sort_order": 36,
+      "data": {
+        "title": {
+          "id": "Nadia P.",
+          "en": "Nadia P."
+        },
+        "description": {
+          "id": "Ruang duduknya terasa hangat dan mudah menjadi tempat favorit untuk berkumpul. Momen kecil bersama keluarga terasa lebih berkesan.",
+          "en": "The sitting area felt warm and quickly became our favourite gathering spot. Those little family moments became more memorable."
+        },
+        "rating": 5,
+        "source": "Contoh · liburan keluarga",
+        "source_url": "",
+        "date": "2026-08-01",
+        "avatar": "",
+        "featured": true,
+        "translated": true,
+        "original_locale": "id",
+        "consent": false
+      }
+    },
+    {
+      "id": 37,
+      "type": "testimonial",
+      "status": "published",
+      "is_demo": true,
+      "sort_order": 37,
+      "data": {
+        "title": {
+          "id": "Arif R.",
+          "en": "Arif R."
+        },
+        "description": {
+          "id": "Kami menikmati pagi yang santai dan kamar yang tertata dengan nyaman. Momen kecil bersama keluarga terasa lebih berkesan.",
+          "en": "We enjoyed relaxed mornings and a thoughtfully arranged room. Those little family moments became more memorable."
+        },
+        "rating": 5,
+        "source": "Contoh · akhir pekan",
+        "source_url": "",
+        "date": "2026-09-02",
+        "avatar": "",
+        "featured": true,
+        "translated": true,
+        "original_locale": "id",
+        "consent": false
+      }
+    },
+    {
+      "id": 38,
+      "type": "testimonial",
+      "status": "published",
+      "is_demo": true,
+      "sort_order": 38,
+      "data": {
+        "title": {
+          "id": "Maya S.",
+          "en": "Maya S."
+        },
+        "description": {
+          "id": "Warna alami dan cahaya di kamar membuat waktu istirahat terasa menyenangkan. Momen kecil bersama keluarga terasa lebih berkesan.",
+          "en": "Natural colours and the room lighting made resting feel lovely. Those little family moments became more memorable."
+        },
+        "rating": 5,
+        "source": "Contoh · perjalanan berdua",
+        "source_url": "",
+        "date": "2026-08-03",
+        "avatar": "",
+        "featured": true,
+        "translated": true,
+        "original_locale": "id",
+        "consent": false
+      }
+    },
+    {
+      "id": 39,
+      "type": "testimonial",
+      "status": "published",
+      "is_demo": true,
+      "sort_order": 39,
+      "data": {
+        "title": {
+          "id": "Dimas A.",
+          "en": "Dimas A."
+        },
+        "description": {
+          "id": "Senang punya ruang untuk membaca sambil menunggu keluarga siap beraktivitas. Momen kecil bersama keluarga terasa lebih berkesan.",
+          "en": "It was lovely having a reading corner while the family got ready. Those little family moments became more memorable."
+        },
+        "rating": 5,
+        "source": "Contoh · liburan keluarga",
+        "source_url": "",
+        "date": "2026-09-04",
+        "avatar": "",
+        "featured": true,
+        "translated": true,
+        "original_locale": "id",
+        "consent": false
+      }
+    },
+    {
+      "id": 40,
+      "type": "testimonial",
+      "status": "published",
+      "is_demo": true,
+      "sort_order": 40,
+      "data": {
+        "title": {
+          "id": "Putri L.",
+          "en": "Putri L."
+        },
+        "description": {
+          "id": "Area bersama memberi kesempatan untuk berbincang tanpa terburu-buru. Momen kecil bersama keluarga terasa lebih berkesan.",
+          "en": "The shared areas made room for conversations without rushing. Those little family moments became more memorable."
+        },
+        "rating": 5,
+        "source": "Contoh · akhir pekan",
+        "source_url": "",
+        "date": "2026-08-05",
+        "avatar": "",
+        "featured": true,
+        "translated": true,
+        "original_locale": "id",
+        "consent": false
+      }
+    },
+    {
+      "id": 41,
+      "type": "testimonial",
+      "status": "published",
+      "is_demo": true,
+      "sort_order": 41,
+      "data": {
+        "title": {
+          "id": "Raka W.",
+          "en": "Raka W."
+        },
+        "description": {
+          "id": "Tipe kamar yang berbeda memudahkan kami memilih ruang sesuai kebutuhan. Momen kecil bersama keluarga terasa lebih berkesan.",
+          "en": "The different room types helped us choose a space for our needs. Those little family moments became more memorable."
+        },
+        "rating": 5,
+        "source": "Contoh · perjalanan berdua",
+        "source_url": "",
+        "date": "2026-09-06",
+        "avatar": "",
+        "featured": true,
+        "translated": true,
+        "original_locale": "id",
+        "consent": false
+      }
+    },
+    {
+      "id": 42,
+      "type": "testimonial",
+      "status": "published",
+      "is_demo": true,
+      "sort_order": 42,
+      "data": {
+        "title": {
+          "id": "Intan F.",
+          "en": "Intan F."
+        },
+        "description": {
+          "id": "Suasana di tepi kolam menjadi bagian yang paling kami nikmati. Momen kecil bersama keluarga terasa lebih berkesan.",
+          "en": "The poolside atmosphere was the part we enjoyed most. Those little family moments became more memorable."
+        },
+        "rating": 5,
+        "source": "Contoh · liburan keluarga",
+        "source_url": "",
+        "date": "2026-08-07",
+        "avatar": "",
+        "featured": false,
+        "translated": true,
+        "original_locale": "id",
+        "consent": false
+      }
+    },
+    {
+      "id": 43,
+      "type": "testimonial",
+      "status": "published",
+      "is_demo": true,
+      "sort_order": 43,
+      "data": {
+        "title": {
+          "id": "Farhan D.",
+          "en": "Farhan D."
+        },
+        "description": {
+          "id": "Detail kecil di dalam kamar membuat persinggahan terasa lebih personal. Momen kecil bersama keluarga terasa lebih berkesan.",
+          "en": "The small room details made the stay feel more personal. Those little family moments became more memorable."
+        },
+        "rating": 5,
+        "source": "Contoh · akhir pekan",
+        "source_url": "",
+        "date": "2026-09-08",
+        "avatar": "",
+        "featured": false,
+        "translated": true,
+        "original_locale": "id",
+        "consent": false
+      }
+    },
+    {
+      "id": 44,
+      "type": "testimonial",
+      "status": "published",
+      "is_demo": true,
+      "sort_order": 44,
+      "data": {
+        "title": {
+          "id": "Alya K.",
+          "en": "Alya K."
+        },
+        "description": {
+          "id": "Sudut makan terasa nyaman untuk memulai hari bersama keluarga. Momen kecil bersama keluarga terasa lebih berkesan.",
+          "en": "The dining corner was a comfortable place to start the day together. Those little family moments became more memorable."
+        },
+        "rating": 5,
+        "source": "Contoh · perjalanan berdua",
+        "source_url": "",
+        "date": "2026-08-09",
+        "avatar": "",
+        "featured": false,
+        "translated": true,
+        "original_locale": "id",
+        "consent": false
+      }
+    },
+    {
+      "id": 45,
+      "type": "testimonial",
+      "status": "published",
+      "is_demo": true,
+      "sort_order": 45,
+      "data": {
+        "title": {
+          "id": "Bagas T.",
+          "en": "Bagas T."
+        },
+        "description": {
+          "id": "Ruang yang tenang membantu kami beristirahat setelah perjalanan panjang. Momen kecil bersama keluarga terasa lebih berkesan.",
+          "en": "The peaceful space helped us unwind after a long journey. Those little family moments became more memorable."
+        },
+        "rating": 5,
+        "source": "Contoh · liburan keluarga",
+        "source_url": "",
+        "date": "2026-09-10",
+        "avatar": "",
+        "featured": false,
+        "translated": true,
+        "original_locale": "id",
+        "consent": false
+      }
+    },
+    {
+      "id": 46,
+      "type": "testimonial",
+      "status": "published",
+      "is_demo": true,
+      "sort_order": 46,
+      "data": {
+        "title": {
+          "id": "Nina H.",
+          "en": "Nina H."
+        },
+        "description": {
+          "id": "Foto kamar membantu membayangkan suasana sebelum memilih tipe menginap. Momen kecil bersama keluarga terasa lebih berkesan.",
+          "en": "The room photographs helped us picture the atmosphere before choosing a room. Those little family moments became more memorable."
+        },
+        "rating": 5,
+        "source": "Contoh · akhir pekan",
+        "source_url": "",
+        "date": "2026-08-11",
+        "avatar": "",
+        "featured": false,
+        "translated": true,
+        "original_locale": "id",
+        "consent": false
+      }
+    },
+    {
+      "id": 47,
+      "type": "testimonial",
+      "status": "published",
+      "is_demo": true,
+      "sort_order": 47,
+      "data": {
+        "title": {
+          "id": "Reza M.",
+          "en": "Reza M."
+        },
+        "description": {
+          "id": "Kami suka bisa menikmati waktu sendiri dan tetap dekat dengan keluarga. Momen kecil bersama keluarga terasa lebih berkesan.",
+          "en": "We liked having time to ourselves while staying close to the family. Those little family moments became more memorable."
+        },
+        "rating": 5,
+        "source": "Contoh · perjalanan berdua",
+        "source_url": "",
+        "date": "2026-09-12",
+        "avatar": "",
+        "featured": false,
+        "translated": true,
+        "original_locale": "id",
+        "consent": false
+      }
+    },
+    {
+      "id": 48,
+      "type": "testimonial",
+      "status": "published",
+      "is_demo": true,
+      "sort_order": 48,
+      "data": {
+        "title": {
+          "id": "Laras C.",
+          "en": "Laras C."
+        },
+        "description": {
+          "id": "Ruang duduknya terasa hangat dan mudah menjadi tempat favorit untuk berkumpul. Cocok untuk menikmati akhir pekan dengan ritme yang lebih pelan.",
+          "en": "The sitting area felt warm and quickly became our favourite gathering spot. A lovely setting for enjoying a slower weekend."
+        },
+        "rating": 5,
+        "source": "Contoh · liburan keluarga",
+        "source_url": "",
+        "date": "2026-08-13",
+        "avatar": "",
+        "featured": false,
+        "translated": true,
+        "original_locale": "id",
+        "consent": false
+      }
+    },
+    {
+      "id": 49,
+      "type": "testimonial",
+      "status": "published",
+      "is_demo": true,
+      "sort_order": 49,
+      "data": {
+        "title": {
+          "id": "Fajar B.",
+          "en": "Fajar B."
+        },
+        "description": {
+          "id": "Kami menikmati pagi yang santai dan kamar yang tertata dengan nyaman. Cocok untuk menikmati akhir pekan dengan ritme yang lebih pelan.",
+          "en": "We enjoyed relaxed mornings and a thoughtfully arranged room. A lovely setting for enjoying a slower weekend."
+        },
+        "rating": 5,
+        "source": "Contoh · akhir pekan",
+        "source_url": "",
+        "date": "2026-09-14",
+        "avatar": "",
+        "featured": false,
+        "translated": true,
+        "original_locale": "id",
+        "consent": false
+      }
+    },
+    {
+      "id": 50,
+      "type": "testimonial",
+      "status": "published",
+      "is_demo": true,
+      "sort_order": 50,
+      "data": {
+        "title": {
+          "id": "Rani V.",
+          "en": "Rani V."
+        },
+        "description": {
+          "id": "Warna alami dan cahaya di kamar membuat waktu istirahat terasa menyenangkan. Cocok untuk menikmati akhir pekan dengan ritme yang lebih pelan.",
+          "en": "Natural colours and the room lighting made resting feel lovely. A lovely setting for enjoying a slower weekend."
+        },
+        "rating": 5,
+        "source": "Contoh · perjalanan berdua",
+        "source_url": "",
+        "date": "2026-08-15",
+        "avatar": "",
+        "featured": false,
+        "translated": true,
+        "original_locale": "id",
+        "consent": false
+      }
+    },
+    {
+      "id": 51,
+      "type": "testimonial",
+      "status": "published",
+      "is_demo": true,
+      "sort_order": 51,
+      "data": {
+        "title": {
+          "id": "Yoga G.",
+          "en": "Yoga G."
+        },
+        "description": {
+          "id": "Senang punya ruang untuk membaca sambil menunggu keluarga siap beraktivitas. Cocok untuk menikmati akhir pekan dengan ritme yang lebih pelan.",
+          "en": "It was lovely having a reading corner while the family got ready. A lovely setting for enjoying a slower weekend."
+        },
+        "rating": 5,
+        "source": "Contoh · liburan keluarga",
+        "source_url": "",
+        "date": "2026-09-16",
+        "avatar": "",
+        "featured": false,
+        "translated": true,
+        "original_locale": "id",
+        "consent": false
+      }
+    },
+    {
+      "id": 52,
+      "type": "testimonial",
+      "status": "published",
+      "is_demo": true,
+      "sort_order": 52,
+      "data": {
+        "title": {
+          "id": "Sinta E.",
+          "en": "Sinta E."
+        },
+        "description": {
+          "id": "Area bersama memberi kesempatan untuk berbincang tanpa terburu-buru. Cocok untuk menikmati akhir pekan dengan ritme yang lebih pelan.",
+          "en": "The shared areas made room for conversations without rushing. A lovely setting for enjoying a slower weekend."
+        },
+        "rating": 5,
+        "source": "Contoh · akhir pekan",
+        "source_url": "",
+        "date": "2026-08-17",
+        "avatar": "",
+        "featured": false,
+        "translated": true,
+        "original_locale": "id",
+        "consent": false
+      }
+    },
+    {
+      "id": 53,
+      "type": "testimonial",
+      "status": "published",
+      "is_demo": true,
+      "sort_order": 53,
+      "data": {
+        "title": {
+          "id": "Dian J.",
+          "en": "Dian J."
+        },
+        "description": {
+          "id": "Tipe kamar yang berbeda memudahkan kami memilih ruang sesuai kebutuhan. Cocok untuk menikmati akhir pekan dengan ritme yang lebih pelan.",
+          "en": "The different room types helped us choose a space for our needs. A lovely setting for enjoying a slower weekend."
+        },
+        "rating": 5,
+        "source": "Contoh · perjalanan berdua",
+        "source_url": "",
+        "date": "2026-09-18",
+        "avatar": "",
+        "featured": false,
+        "translated": true,
+        "original_locale": "id",
+        "consent": false
+      }
+    },
+    {
+      "id": 54,
+      "type": "testimonial",
+      "status": "published",
+      "is_demo": true,
+      "sort_order": 54,
+      "data": {
+        "title": {
+          "id": "Kevin N.",
+          "en": "Kevin N."
+        },
+        "description": {
+          "id": "Suasana di tepi kolam menjadi bagian yang paling kami nikmati. Cocok untuk menikmati akhir pekan dengan ritme yang lebih pelan.",
+          "en": "The poolside atmosphere was the part we enjoyed most. A lovely setting for enjoying a slower weekend."
+        },
+        "rating": 5,
+        "source": "Contoh · liburan keluarga",
+        "source_url": "",
+        "date": "2026-08-19",
+        "avatar": "",
+        "featured": false,
+        "translated": true,
+        "original_locale": "id",
+        "consent": false
+      }
+    },
+    {
+      "id": 55,
+      "type": "testimonial",
+      "status": "published",
+      "is_demo": true,
+      "sort_order": 55,
+      "data": {
+        "title": {
+          "id": "Tara O.",
+          "en": "Tara O."
+        },
+        "description": {
+          "id": "Detail kecil di dalam kamar membuat persinggahan terasa lebih personal. Cocok untuk menikmati akhir pekan dengan ritme yang lebih pelan.",
+          "en": "The small room details made the stay feel more personal. A lovely setting for enjoying a slower weekend."
+        },
+        "rating": 5,
+        "source": "Contoh · akhir pekan",
+        "source_url": "",
+        "date": "2026-09-20",
+        "avatar": "",
+        "featured": false,
+        "translated": true,
+        "original_locale": "id",
+        "consent": false
+      }
+    },
+    {
+      "id": 56,
+      "type": "testimonial",
+      "status": "published",
+      "is_demo": true,
+      "sort_order": 56,
+      "data": {
+        "title": {
+          "id": "Aditya P.",
+          "en": "Aditya P."
+        },
+        "description": {
+          "id": "Sudut makan terasa nyaman untuk memulai hari bersama keluarga. Cocok untuk menikmati akhir pekan dengan ritme yang lebih pelan.",
+          "en": "The dining corner was a comfortable place to start the day together. A lovely setting for enjoying a slower weekend."
+        },
+        "rating": 5,
+        "source": "Contoh · perjalanan berdua",
+        "source_url": "",
+        "date": "2026-08-21",
+        "avatar": "",
+        "featured": false,
+        "translated": true,
+        "original_locale": "id",
+        "consent": false
+      }
+    },
+    {
+      "id": 57,
+      "type": "testimonial",
+      "status": "published",
+      "is_demo": true,
+      "sort_order": 57,
+      "data": {
+        "title": {
+          "id": "Citra R.",
+          "en": "Citra R."
+        },
+        "description": {
+          "id": "Ruang yang tenang membantu kami beristirahat setelah perjalanan panjang. Cocok untuk menikmati akhir pekan dengan ritme yang lebih pelan.",
+          "en": "The peaceful space helped us unwind after a long journey. A lovely setting for enjoying a slower weekend."
+        },
+        "rating": 5,
+        "source": "Contoh · liburan keluarga",
+        "source_url": "",
+        "date": "2026-09-22",
+        "avatar": "",
+        "featured": false,
+        "translated": true,
+        "original_locale": "id",
+        "consent": false
+      }
+    },
+    {
+      "id": 58,
+      "type": "testimonial",
+      "status": "published",
+      "is_demo": true,
+      "sort_order": 58,
+      "data": {
+        "title": {
+          "id": "Bima S.",
+          "en": "Bima S."
+        },
+        "description": {
+          "id": "Foto kamar membantu membayangkan suasana sebelum memilih tipe menginap. Cocok untuk menikmati akhir pekan dengan ritme yang lebih pelan.",
+          "en": "The room photographs helped us picture the atmosphere before choosing a room. A lovely setting for enjoying a slower weekend."
+        },
+        "rating": 5,
+        "source": "Contoh · akhir pekan",
+        "source_url": "",
+        "date": "2026-08-23",
+        "avatar": "",
+        "featured": false,
+        "translated": true,
+        "original_locale": "id",
+        "consent": false
+      }
+    },
+    {
+      "id": 59,
+      "type": "testimonial",
+      "status": "published",
+      "is_demo": true,
+      "sort_order": 59,
+      "data": {
+        "title": {
+          "id": "Dewi A.",
+          "en": "Dewi A."
+        },
+        "description": {
+          "id": "Kami suka bisa menikmati waktu sendiri dan tetap dekat dengan keluarga. Cocok untuk menikmati akhir pekan dengan ritme yang lebih pelan.",
+          "en": "We liked having time to ourselves while staying close to the family. A lovely setting for enjoying a slower weekend."
+        },
+        "rating": 5,
+        "source": "Contoh · perjalanan berdua",
+        "source_url": "",
+        "date": "2026-09-24",
+        "avatar": "",
+        "featured": false,
+        "translated": true,
+        "original_locale": "id",
+        "consent": false
+      }
+    },
+    {
+      "id": 60,
+      "type": "testimonial",
+      "status": "published",
+      "is_demo": true,
+      "sort_order": 60,
+      "data": {
+        "title": {
+          "id": "Rizal L.",
+          "en": "Rizal L."
+        },
+        "description": {
+          "id": "Ruang duduknya terasa hangat dan mudah menjadi tempat favorit untuk berkumpul. Ruang yang pas untuk berbagi cerita di penghujung hari.",
+          "en": "The sitting area felt warm and quickly became our favourite gathering spot. A good space for sharing stories at the end of the day."
+        },
+        "rating": 5,
+        "source": "Contoh · liburan keluarga",
+        "source_url": "",
+        "date": "2026-08-25",
+        "avatar": "",
+        "featured": false,
+        "translated": true,
+        "original_locale": "id",
+        "consent": false
+      }
+    },
+    {
+      "id": 61,
+      "type": "testimonial",
+      "status": "published",
+      "is_demo": true,
+      "sort_order": 61,
+      "data": {
+        "title": {
+          "id": "Melati W.",
+          "en": "Melati W."
+        },
+        "description": {
+          "id": "Kami menikmati pagi yang santai dan kamar yang tertata dengan nyaman. Ruang yang pas untuk berbagi cerita di penghujung hari.",
+          "en": "We enjoyed relaxed mornings and a thoughtfully arranged room. A good space for sharing stories at the end of the day."
+        },
+        "rating": 5,
+        "source": "Contoh · akhir pekan",
+        "source_url": "",
+        "date": "2026-09-26",
+        "avatar": "",
+        "featured": false,
+        "translated": true,
+        "original_locale": "id",
+        "consent": false
+      }
+    },
+    {
+      "id": 62,
+      "type": "testimonial",
+      "status": "published",
+      "is_demo": true,
+      "sort_order": 62,
+      "data": {
+        "title": {
+          "id": "Irfan F.",
+          "en": "Irfan F."
+        },
+        "description": {
+          "id": "Warna alami dan cahaya di kamar membuat waktu istirahat terasa menyenangkan. Ruang yang pas untuk berbagi cerita di penghujung hari.",
+          "en": "Natural colours and the room lighting made resting feel lovely. A good space for sharing stories at the end of the day."
+        },
+        "rating": 5,
+        "source": "Contoh · perjalanan berdua",
+        "source_url": "",
+        "date": "2026-08-27",
+        "avatar": "",
+        "featured": false,
+        "translated": true,
+        "original_locale": "id",
+        "consent": false
+      }
+    },
+    {
+      "id": 63,
+      "type": "testimonial",
+      "status": "published",
+      "is_demo": true,
+      "sort_order": 63,
+      "data": {
+        "title": {
+          "id": "Vina D.",
+          "en": "Vina D."
+        },
+        "description": {
+          "id": "Senang punya ruang untuk membaca sambil menunggu keluarga siap beraktivitas. Ruang yang pas untuk berbagi cerita di penghujung hari.",
+          "en": "It was lovely having a reading corner while the family got ready. A good space for sharing stories at the end of the day."
+        },
+        "rating": 5,
+        "source": "Contoh · liburan keluarga",
+        "source_url": "",
+        "date": "2026-09-01",
+        "avatar": "",
+        "featured": false,
+        "translated": true,
+        "original_locale": "id",
+        "consent": false
+      }
+    },
+    {
+      "id": 64,
+      "type": "testimonial",
+      "status": "published",
+      "is_demo": true,
+      "sort_order": 64,
+      "data": {
+        "title": {
+          "id": "Galih K.",
+          "en": "Galih K."
+        },
+        "description": {
+          "id": "Area bersama memberi kesempatan untuk berbincang tanpa terburu-buru. Ruang yang pas untuk berbagi cerita di penghujung hari.",
+          "en": "The shared areas made room for conversations without rushing. A good space for sharing stories at the end of the day."
+        },
+        "rating": 5,
+        "source": "Contoh · akhir pekan",
+        "source_url": "",
+        "date": "2026-08-02",
+        "avatar": "",
+        "featured": false,
+        "translated": true,
+        "original_locale": "id",
+        "consent": false
+      }
+    },
+    {
+      "id": 65,
+      "type": "testimonial",
+      "status": "published",
+      "is_demo": true,
+      "sort_order": 65,
+      "data": {
+        "title": {
+          "id": "Anisa T.",
+          "en": "Anisa T."
+        },
+        "description": {
+          "id": "Tipe kamar yang berbeda memudahkan kami memilih ruang sesuai kebutuhan. Ruang yang pas untuk berbagi cerita di penghujung hari.",
+          "en": "The different room types helped us choose a space for our needs. A good space for sharing stories at the end of the day."
+        },
+        "rating": 5,
+        "source": "Contoh · perjalanan berdua",
+        "source_url": "",
+        "date": "2026-09-03",
+        "avatar": "",
+        "featured": false,
+        "translated": true,
+        "original_locale": "id",
+        "consent": false
+      }
+    },
+    {
+      "id": 66,
+      "type": "testimonial",
+      "status": "published",
+      "is_demo": true,
+      "sort_order": 66,
+      "data": {
+        "title": {
+          "id": "Reno H.",
+          "en": "Reno H."
+        },
+        "description": {
+          "id": "Suasana di tepi kolam menjadi bagian yang paling kami nikmati. Ruang yang pas untuk berbagi cerita di penghujung hari.",
+          "en": "The poolside atmosphere was the part we enjoyed most. A good space for sharing stories at the end of the day."
+        },
+        "rating": 5,
+        "source": "Contoh · liburan keluarga",
+        "source_url": "",
+        "date": "2026-08-04",
+        "avatar": "",
+        "featured": false,
+        "translated": true,
+        "original_locale": "id",
+        "consent": false
+      }
+    },
+    {
+      "id": 67,
+      "type": "testimonial",
+      "status": "published",
+      "is_demo": true,
+      "sort_order": 67,
+      "data": {
+        "title": {
+          "id": "Tiara M.",
+          "en": "Tiara M."
+        },
+        "description": {
+          "id": "Detail kecil di dalam kamar membuat persinggahan terasa lebih personal. Ruang yang pas untuk berbagi cerita di penghujung hari.",
+          "en": "The small room details made the stay feel more personal. A good space for sharing stories at the end of the day."
+        },
+        "rating": 5,
+        "source": "Contoh · akhir pekan",
+        "source_url": "",
+        "date": "2026-09-05",
+        "avatar": "",
+        "featured": false,
+        "translated": true,
+        "original_locale": "id",
+        "consent": false
+      }
+    },
+    {
+      "id": 68,
+      "type": "testimonial",
+      "status": "published",
+      "is_demo": true,
+      "sort_order": 68,
+      "data": {
+        "title": {
+          "id": "Naufal C.",
+          "en": "Naufal C."
+        },
+        "description": {
+          "id": "Sudut makan terasa nyaman untuk memulai hari bersama keluarga. Ruang yang pas untuk berbagi cerita di penghujung hari.",
+          "en": "The dining corner was a comfortable place to start the day together. A good space for sharing stories at the end of the day."
+        },
+        "rating": 5,
+        "source": "Contoh · perjalanan berdua",
+        "source_url": "",
+        "date": "2026-08-06",
+        "avatar": "",
+        "featured": false,
+        "translated": true,
+        "original_locale": "id",
+        "consent": false
+      }
+    },
+    {
+      "id": 69,
+      "type": "testimonial",
+      "status": "published",
+      "is_demo": true,
+      "sort_order": 69,
+      "data": {
+        "title": {
+          "id": "Mira B.",
+          "en": "Mira B."
+        },
+        "description": {
+          "id": "Ruang yang tenang membantu kami beristirahat setelah perjalanan panjang. Ruang yang pas untuk berbagi cerita di penghujung hari.",
+          "en": "The peaceful space helped us unwind after a long journey. A good space for sharing stories at the end of the day."
+        },
+        "rating": 5,
+        "source": "Contoh · liburan keluarga",
+        "source_url": "",
+        "date": "2026-09-07",
+        "avatar": "",
+        "featured": false,
+        "translated": true,
+        "original_locale": "id",
+        "consent": false
+      }
+    },
+    {
+      "id": 70,
+      "type": "testimonial",
+      "status": "published",
+      "is_demo": true,
+      "sort_order": 70,
+      "data": {
+        "title": {
+          "id": "Hana V.",
+          "en": "Hana V."
+        },
+        "description": {
+          "id": "Foto kamar membantu membayangkan suasana sebelum memilih tipe menginap. Ruang yang pas untuk berbagi cerita di penghujung hari.",
+          "en": "The room photographs helped us picture the atmosphere before choosing a room. A good space for sharing stories at the end of the day."
+        },
+        "rating": 5,
+        "source": "Contoh · akhir pekan",
+        "source_url": "",
+        "date": "2026-08-08",
+        "avatar": "",
+        "featured": false,
+        "translated": true,
+        "original_locale": "id",
+        "consent": false
+      }
+    },
+    {
+      "id": 71,
+      "type": "testimonial",
+      "status": "published",
+      "is_demo": true,
+      "sort_order": 71,
+      "data": {
+        "title": {
+          "id": "Akbar G.",
+          "en": "Akbar G."
+        },
+        "description": {
+          "id": "Kami suka bisa menikmati waktu sendiri dan tetap dekat dengan keluarga. Ruang yang pas untuk berbagi cerita di penghujung hari.",
+          "en": "We liked having time to ourselves while staying close to the family. A good space for sharing stories at the end of the day."
+        },
+        "rating": 5,
+        "source": "Contoh · perjalanan berdua",
+        "source_url": "",
+        "date": "2026-09-09",
+        "avatar": "",
+        "featured": false,
+        "translated": true,
+        "original_locale": "id",
+        "consent": false
+      }
+    },
+    {
+      "id": 72,
+      "type": "testimonial",
+      "status": "published",
+      "is_demo": true,
+      "sort_order": 72,
+      "data": {
+        "title": {
+          "id": "Salma E.",
+          "en": "Salma E."
+        },
+        "description": {
+          "id": "Ruang duduknya terasa hangat dan mudah menjadi tempat favorit untuk berkumpul. Kami menikmati kesempatan untuk berhenti sejenak dari rutinitas.",
+          "en": "The sitting area felt warm and quickly became our favourite gathering spot. We enjoyed the chance to pause our everyday routine."
+        },
+        "rating": 5,
+        "source": "Contoh · liburan keluarga",
+        "source_url": "",
+        "date": "2026-08-10",
+        "avatar": "",
+        "featured": false,
+        "translated": true,
+        "original_locale": "id",
+        "consent": false
+      }
+    },
+    {
+      "id": 73,
+      "type": "testimonial",
+      "status": "published",
+      "is_demo": true,
+      "sort_order": 73,
+      "data": {
+        "title": {
+          "id": "Ilham J.",
+          "en": "Ilham J."
+        },
+        "description": {
+          "id": "Kami menikmati pagi yang santai dan kamar yang tertata dengan nyaman. Kami menikmati kesempatan untuk berhenti sejenak dari rutinitas.",
+          "en": "We enjoyed relaxed mornings and a thoughtfully arranged room. We enjoyed the chance to pause our everyday routine."
+        },
+        "rating": 5,
+        "source": "Contoh · akhir pekan",
+        "source_url": "",
+        "date": "2026-09-11",
+        "avatar": "",
+        "featured": false,
+        "translated": true,
+        "original_locale": "id",
+        "consent": false
+      }
+    },
+    {
+      "id": 74,
+      "type": "testimonial",
+      "status": "published",
+      "is_demo": true,
+      "sort_order": 74,
+      "data": {
+        "title": {
+          "id": "Nabila N.",
+          "en": "Nabila N."
+        },
+        "description": {
+          "id": "Warna alami dan cahaya di kamar membuat waktu istirahat terasa menyenangkan. Kami menikmati kesempatan untuk berhenti sejenak dari rutinitas.",
+          "en": "Natural colours and the room lighting made resting feel lovely. We enjoyed the chance to pause our everyday routine."
+        },
+        "rating": 4,
+        "source": "Contoh · perjalanan berdua",
+        "source_url": "",
+        "date": "2026-08-12",
+        "avatar": "",
+        "featured": false,
+        "translated": true,
+        "original_locale": "id",
+        "consent": false
+      }
+    },
+    {
+      "id": 75,
+      "type": "testimonial",
+      "status": "published",
+      "is_demo": true,
+      "sort_order": 75,
+      "data": {
+        "title": {
+          "id": "Arya O.",
+          "en": "Arya O."
+        },
+        "description": {
+          "id": "Senang punya ruang untuk membaca sambil menunggu keluarga siap beraktivitas. Kami menikmati kesempatan untuk berhenti sejenak dari rutinitas.",
+          "en": "It was lovely having a reading corner while the family got ready. We enjoyed the chance to pause our everyday routine."
+        },
+        "rating": 4,
+        "source": "Contoh · liburan keluarga",
+        "source_url": "",
+        "date": "2026-09-13",
+        "avatar": "",
+        "featured": false,
+        "translated": true,
+        "original_locale": "id",
+        "consent": false
+      }
+    },
+    {
+      "id": 76,
+      "type": "testimonial",
+      "status": "published",
+      "is_demo": true,
+      "sort_order": 76,
+      "data": {
+        "title": {
+          "id": "Fani P.",
+          "en": "Fani P."
+        },
+        "description": {
+          "id": "Area bersama memberi kesempatan untuk berbincang tanpa terburu-buru. Kami menikmati kesempatan untuk berhenti sejenak dari rutinitas.",
+          "en": "The shared areas made room for conversations without rushing. We enjoyed the chance to pause our everyday routine."
+        },
+        "rating": 4,
+        "source": "Contoh · akhir pekan",
+        "source_url": "",
+        "date": "2026-08-14",
+        "avatar": "",
+        "featured": false,
+        "translated": true,
+        "original_locale": "id",
+        "consent": false
+      }
+    },
+    {
+      "id": 77,
+      "type": "testimonial",
+      "status": "published",
+      "is_demo": true,
+      "sort_order": 77,
+      "data": {
+        "title": {
+          "id": "Wira R.",
+          "en": "Wira R."
+        },
+        "description": {
+          "id": "Tipe kamar yang berbeda memudahkan kami memilih ruang sesuai kebutuhan. Kami menikmati kesempatan untuk berhenti sejenak dari rutinitas.",
+          "en": "The different room types helped us choose a space for our needs. We enjoyed the chance to pause our everyday routine."
+        },
+        "rating": 4,
+        "source": "Contoh · perjalanan berdua",
+        "source_url": "",
+        "date": "2026-09-15",
+        "avatar": "",
+        "featured": false,
+        "translated": true,
+        "original_locale": "id",
+        "consent": false
+      }
+    },
+    {
+      "id": 78,
+      "type": "testimonial",
+      "status": "published",
+      "is_demo": true,
+      "sort_order": 78,
+      "data": {
+        "title": {
+          "id": "Tania S.",
+          "en": "Tania S."
+        },
+        "description": {
+          "id": "Suasana di tepi kolam menjadi bagian yang paling kami nikmati. Kami menikmati kesempatan untuk berhenti sejenak dari rutinitas.",
+          "en": "The poolside atmosphere was the part we enjoyed most. We enjoyed the chance to pause our everyday routine."
+        },
+        "rating": 4,
+        "source": "Contoh · liburan keluarga",
+        "source_url": "",
+        "date": "2026-08-16",
+        "avatar": "",
+        "featured": false,
+        "translated": true,
+        "original_locale": "id",
+        "consent": false
+      }
+    },
+    {
+      "id": 79,
+      "type": "testimonial",
+      "status": "published",
+      "is_demo": true,
+      "sort_order": 79,
+      "data": {
+        "title": {
+          "id": "Adit A.",
+          "en": "Adit A."
+        },
+        "description": {
+          "id": "Detail kecil di dalam kamar membuat persinggahan terasa lebih personal. Kami menikmati kesempatan untuk berhenti sejenak dari rutinitas.",
+          "en": "The small room details made the stay feel more personal. We enjoyed the chance to pause our everyday routine."
+        },
+        "rating": 4,
+        "source": "Contoh · akhir pekan",
+        "source_url": "",
+        "date": "2026-09-17",
+        "avatar": "",
+        "featured": false,
+        "translated": true,
+        "original_locale": "id",
+        "consent": false
+      }
+    },
+    {
+      "id": 80,
+      "type": "testimonial",
+      "status": "published",
+      "is_demo": true,
+      "sort_order": 80,
+      "data": {
+        "title": {
+          "id": "Nisa L.",
+          "en": "Nisa L."
+        },
+        "description": {
+          "id": "Sudut makan terasa nyaman untuk memulai hari bersama keluarga. Kami menikmati kesempatan untuk berhenti sejenak dari rutinitas.",
+          "en": "The dining corner was a comfortable place to start the day together. We enjoyed the chance to pause our everyday routine."
+        },
+        "rating": 3,
+        "source": "Contoh · perjalanan berdua",
+        "source_url": "",
+        "date": "2026-08-18",
+        "avatar": "",
+        "featured": false,
+        "translated": true,
+        "original_locale": "id",
+        "consent": false
+      }
+    },
+    {
+      "id": 81,
+      "type": "testimonial",
+      "status": "published",
+      "is_demo": true,
+      "sort_order": 81,
+      "data": {
+        "title": {
+          "id": "Surya W.",
+          "en": "Surya W."
+        },
+        "description": {
+          "id": "Ruang yang tenang membantu kami beristirahat setelah perjalanan panjang. Kami menikmati kesempatan untuk berhenti sejenak dari rutinitas.",
+          "en": "The peaceful space helped us unwind after a long journey. We enjoyed the chance to pause our everyday routine."
+        },
+        "rating": 3,
+        "source": "Contoh · liburan keluarga",
+        "source_url": "",
+        "date": "2026-09-19",
+        "avatar": "",
+        "featured": false,
+        "translated": true,
+        "original_locale": "id",
+        "consent": false
+      }
+    }
+  ],
+  "schema_version": 1
+}

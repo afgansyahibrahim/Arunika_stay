@@ -1,0 +1,19 @@
+{
+    "name": "arunika-stay-portfolio",
+    "version": "1.0.0",
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "build": "node scripts/build.mjs",
+        "dev": "node scripts/build.mjs && node scripts/serve.mjs",
+        "start": "node scripts/serve.mjs",
+        "test": "node --test tests-static/*.test.mjs",
+        "check": "prettier --check site/assets/js site/assets/css scripts tests-static package.json vercel.json"
+    },
+    "devDependencies": {
+        "prettier": "^3.9.9"
+    },
+    "engines": {
+        "node": ">=22"
+    }
+}

@@ -1,0 +1,11 @@
+legacy/
+arunika-stay-portfolio/
+archive/
+vendor/
+node_modules/
+storage/
+.env*
+.admin-access.txt
+tests-static/
+previews/
+*.zip
